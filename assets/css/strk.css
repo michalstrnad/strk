@@ -141,8 +141,17 @@ footer {
   bottom: 0px;
 }
 
+.list-inline{
+  display: flex;
+  justify-content: center;
+}
+
 .bs-icon-md.bs-icon-circle.bs-icon-primary.bs-icon {
   background: var(--bs-cyan);
+}
+
+.me-4:last-child{
+  margin-right: 0 !important;
 }
 
 .btn {
