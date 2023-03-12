@@ -1,0 +1,1 @@
+CTRL+ALT+S => nahraje aktuální soubor na FTP
